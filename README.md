@@ -1,4 +1,6 @@
 # study_SQLs
 study SQLs  
 yongbeom  
-byeonggeun
+byeonggeun  
+
+짝수 기록
