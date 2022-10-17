@@ -10,3 +10,6 @@
 ### Employees_Order_Totals : 
 - [query yongbeom](./yongbeom/w3schools/Employees_Order_Totals.sql)
 - [query byeonggeun](./byeonggeun/w3schools/Employee_Order_totals.sql)
+
+### Categories_Products_totals : 
+- [query byeonggeun](./byeonggeun/w3schools/Catogories_Products_totals.sql)
