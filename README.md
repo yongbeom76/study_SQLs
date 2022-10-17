@@ -1,9 +1,4 @@
 # study_SQLs
-study SQLs  
-끼워넣기 홀수
+### where_in_subquery : 서브쿼리를 IN 이용해 활용
 
-yongbeom  
-byeonggeun
-두번째 끼워넣기 홀수
-짝수 기록
-홀수 기록
+- [query yongbeom](./yongbeom/w3schools/where_in_subquery.sql)
