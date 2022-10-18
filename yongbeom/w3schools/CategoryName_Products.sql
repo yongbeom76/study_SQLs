@@ -2,4 +2,6 @@
 SELECT SUM(Price),AVG(Price) FROM Products
 WHERE (Price >= 10 AND Price <= 50)
 AND CategoryID IN (SELECT CategoryID FROM Categories
-					WHERE CategoryName IN ('Dairy Products','Seafood'));        
+					WHERE CategoryName IN ('Dairy Products','Seafood'));    
+
+# 합계 390.34, 평균 24.396250                        
