@@ -14,3 +14,6 @@
 ### Categories_Products_totals :  
 - [query yongbeom](./yongbeom/w3schools/Categories_Products_totals.sql)
 - [query byeonggeun](./byeonggeun/w3schools/Catogories_Products_totals.sql)
+
+### Categories_Products :  
+- [query byeonggeun](./byeonggeun/w3schools/CategoryName_Products.sql)
