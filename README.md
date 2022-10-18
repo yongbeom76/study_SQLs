@@ -24,4 +24,5 @@
 - [query byeonggeun](./byeonggeun/w3schools/CategoryName_Products_Order.sql)
 
 ### Categories_Products_Count :
+- [query yongbeom](./yongbeom/w3schools/Categories_Products_Count.sql)
 - [query byeonggeun](./byeonggeun/w3schools/Categories_Products_Count.sql)
