@@ -17,3 +17,6 @@
 
 ### Categories_Products :  
 - [query byeonggeun](./byeonggeun/w3schools/CategoryName_Products.sql)
+
+### Categories_Products_Order :
+- [query byeonggeun](./byeonggeun/w3schools/CategoryName_Products_Order.sql)
