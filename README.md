@@ -16,7 +16,9 @@
 - [query byeonggeun](./byeonggeun/w3schools/Catogories_Products_totals.sql)
 
 ### Categories_Products :  
+- [query yongbeom](./yongbeom/w3schools/CategoryName_Products.sql)
 - [query byeonggeun](./byeonggeun/w3schools/CategoryName_Products.sql)
 
 ### Categories_Products_Order :
+- [query yongbeom](./yongbeom/w3schools/CategoryName_Products_Order.sql)
 - [query byeonggeun](./byeonggeun/w3schools/CategoryName_Products_Order.sql)
