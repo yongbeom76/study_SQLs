@@ -22,3 +22,6 @@
 ### Categories_Products_Order :
 - [query yongbeom](./yongbeom/w3schools/CategoryName_Products_Order.sql)
 - [query byeonggeun](./byeonggeun/w3schools/CategoryName_Products_Order.sql)
+
+### Categories_Products_Count :
+- [query byeonggeun](./byeonggeun/w3schools/Categories_Products_Count.sql)
