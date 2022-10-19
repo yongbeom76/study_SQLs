@@ -28,4 +28,5 @@
 - [query byeonggeun](./byeonggeun/w3schools/Categories_Products_Count.sql)
 
 ### Products_HAVING :
+- [query yongbeom](./yongbeom/w3schools/Products_HAVING.sql)
 - [query byeonggeun](./byeonggeun/w3schools/Products_HAVING.sql)
