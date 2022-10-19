@@ -30,3 +30,6 @@
 ### Products_HAVING :
 - [query yongbeom](./yongbeom/w3schools/Products_HAVING.sql)
 - [query byeonggeun](./byeonggeun/w3schools/Products_HAVING.sql)
+
+## Users_Auths_query :
+- [query yongbeom](./yongbeom/w3schools/Users_Auths_query.sql)
