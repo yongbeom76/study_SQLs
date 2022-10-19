@@ -26,3 +26,6 @@
 ### Categories_Products_Count :
 - [query yongbeom](./yongbeom/w3schools/Categories_Products_Count.sql)
 - [query byeonggeun](./byeonggeun/w3schools/Categories_Products_Count.sql)
+
+### Products_HAVING :
+- [query byeonggeun](./byeonggeun/w3schools/Products_HAVING.sql)
