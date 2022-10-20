@@ -33,9 +33,15 @@
 
 ## Users_Auths_query :
 - [query yongbeom](./yongbeom/w3schools/Users_Auths_query.sql)
+- [query byeonggeun](./byeonggeun/w3schools/Users_Auths_query.sql)
 
 ## Products_CategoryID query:
 - [query yongbeom](./yongbeom/w3schools/Products_CategoryID.sql)
+- [query byeonggeun](./byeonggeun/INNERJOIN/Products_CategoryID.sql)
 
 ## Users_Auth_names query:
 - [query yongbeom](./yongbeom/w3schools/Users_Auth_names.sql)
+- [query byeonggeun](./byeonggeun/INNERJOIN/Users_Auth_names.sql)
+
+## Products_Quantity query:
+- - [query byeonggeun](./byeonggeun/INNERJOIN/Products_Quantity.sql)
