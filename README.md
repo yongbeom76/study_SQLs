@@ -33,3 +33,6 @@
 
 ## Users_Auths_query :
 - [query yongbeom](./yongbeom/w3schools/Users_Auths_query.sql)
+
+## Products_CategoryID query:
+- [query yongbeom](./yongbeom/w3schools/Products_CategoryID.sql)
