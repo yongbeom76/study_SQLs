@@ -4,7 +4,7 @@
 SELECT Products.ProductName, Suppliers.SupplierName
 FROM Products INNER JOIN Suppliers
 	ON Products.SupplierID=Suppliers.SupplierID
-    AND CategoryID IN (5,6)
+    AND Producdts.CategoryID IN (5,6)
 ;
 
 -- 결과값 13
